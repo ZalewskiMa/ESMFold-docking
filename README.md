@@ -25,13 +25,13 @@ This repository contains code, data, and scripts related to our research on **pr
   | `recycles-200.zip`        | Docking results using **adaptive recycling**, with up to 12 recycles and a **200-residue linker** to increase peptide-receptor contact. |
   | `recycles-30.zip`         | Docking results using adaptive recycling and a **30-residue poly-glycine linker**. |
 
---
+---
 
 ## Funding
 
 This project was funded by the OPUS grant from the National Science Centre, Poland [2020/39/B/NZ2/01301].
 
---
+---
 
 ## Citation
 
