@@ -29,7 +29,19 @@ This repository contains code, data, and scripts related to our research on **pr
 
 ## Funding
 
-This project was funded by the OPUS grant from the National Science Centre, Poland [2020/39/B/NZ2/01301].
+Mateusz Zalewski has been supported by the National Science Centre, Poland (Sheng 2021/40/Q/NZ2/00078).
+
+Sebastian Kmiecik has been supported by the National Science Centre, Poland (OPUS 2020/39/B/NZ2/01301).
+
+---
+
+## License
+
+This repository is distributed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to share and adapt the material for any purpose, provided appropriate credit is given to the original authors.
+
+For details, see: https://creativecommons.org/licenses/by/4.0/
 
 ---
 
